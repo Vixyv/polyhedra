@@ -1,6 +1,5 @@
 // Tutorial used: https://sotrh.github.io/learn-wgpu/
 use std::iter;
-
 use winit::{
     event::*,
     event_loop::EventLoop,
